@@ -7,7 +7,8 @@
         "category": "APOCRYPHA",
         "location": [0, 0],
         "meta": ["ROUND"],
-        "parents": [ "!gotthaumonomicon" ],
+        "parents": ["~FIRSTSTEPS"],
+        "siblings": ["~FIRSTSTEPS"],
         "stages": [
           {
             "text": "research.lostmagic.LOSTMAGIC.text.stage.1"
